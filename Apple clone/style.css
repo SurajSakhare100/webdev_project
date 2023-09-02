@@ -1,0 +1,450 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.body{
+    background-color: black;
+    height: 5000vh;
+    width: 100vw;
+}
+.gg{
+    display: flex;
+    padding: 0px 6px;
+    align-items: center;
+}
+.gg i{
+    margin: 0px 16px;
+}
+.vv{
+    color: rgba(0, 0, 0, 0.767);
+}
+.navbar{
+    height: 44px;
+    background-color: rgb(242, 242, 242);
+    color: black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.fff{
+    font-size: 20px;
+}
+.navbar span{
+    height: 44px;
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    border-radius: 2px;
+    border: 1px solid transparent;
+    padding: 0px 16px;
+    color: rgba(0, 0, 0, 0.711);
+}
+.kk{
+    margin-left: 6px;
+    font-size: 12px;
+
+}
+.navbar span:hover{
+    color: rgba(0, 0, 0, 0.895);
+}
+.nav2{
+    height: 116px;
+    background-color: #FBFBFD;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    position: relative;
+}
+.nav2-box{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 8px;
+    width: 80%;
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+.nav2 li{
+    bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.nav3{
+    height: 106px;
+    background-color: #F5F5F7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* position: relative; */
+}
+.box{
+    height: 54px;
+    width: 550px;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 5px;
+
+}
+li{
+    list-style: none;
+}
+.nav3 span{
+    color: #2997FF;
+    align-self: normal;
+    
+}
+.underline:hover{
+    text-decoration: underline;
+}
+.div4{
+    background-color: #ffffff;
+    height: 960px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   }
+.hero{
+    width: 981px;
+    height: 490px;
+    background-image: url("i.jpg");
+    margin-top: 80px;
+
+}
+.hero2{
+    width: 961px;
+    height: 393px;
+    background-image: url("hero_iphone_14_pro__e8bufymdlseq_large.jpg");
+    margin-top: 60px;
+
+}
+h2{
+    margin: 90px 40px 20px 40px;
+    font-size: 48px;
+}
+.q{
+    font-size: 20px;
+    margin: 0px 40px 20px 40px;
+    text-decoration: none;
+}
+.lo{
+    font-size: 20px;
+    align-self: center;
+    color: #2997FF;
+}
+.f{
+    display: flex;
+    align-items: center;
+}
+.buy{
+    background-color: #0665c5;
+    color: white;
+    padding: 9px 16px;
+     border-radius: 50px;
+     font-weight: 530;
+     margin: 0px 30px;
+}
+.div5{
+    background-color: black;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    margin-bottom: 20px;
+}
+.divm{
+    display: flex;
+    height: 830px;
+    justify-content: center;
+    margin-bottom: 20px;
+    background-color: #FBFBFD;
+    margin-bottom: 20px;
+}
+.divq1{
+    margin-top: 250px;
+    margin-right: 100px;
+    width: 500px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+.divq2{
+    width: 494px;
+    height: 830px;
+    margin-right: 120px;
+    background-image: url("iphone_se_hero__gd586pazxqqa_large.jpg");
+    padding-bottom: 20px;
+}
+.ig{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    margin-bottom: 46px;
+    color: #1b83e4;
+    height: 100px;
+    width: 500px;
+    font-size: 48px;
+    line-height: 1.0834933333;
+    font-weight: 600;
+    letter-spacing: -0.003em;
+}
+.ig2{
+    font-size: 20px;
+    color: black;
+    font-weight: 600;
+    line-height: 1.3;
+    margin-bottom: 5px;
+}
+.fu{
+    margin-top: 20px;
+    height: 40px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+}
+.divn{
+    height: 814px;
+    display: flex;
+    width: 94%;
+    margin: 60px auto 0px auto;
+    border-radius: 30px;
+    background-color: black;
+    background-image: url("guided_tour__c40f88on9o8y_large.jpg");
+}
+.divh{
+    background-color: #cccccc60;
+    height: 2424px;
+    width: 100%;
+}
+.divg1{
+    padding-top: 30px;
+    width: 370px;
+    height: 300px;
+    /* background-color: rebeccapurple; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  margin-left: 100px;
+  margin-top: 40px;
+}
+.diva{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    font-weight: 700;
+    background-color: #cccccc60;
+}
+.diva p{
+    /* padding: 20px; */
+    margin-top: 15px;
+}
+.divc1{
+    padding-top: 30px;
+    width: 370px;
+    height: 300px;
+    /* background-color: rebeccapurple; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  margin-left: 100px;
+  margin-top: 40px;
+  position: absolute;
+  left: 0px;
+  bottom: 130px;
+}
+
+.divw1{
+    /* padding-top: 30px; */
+    width: 370px;
+    height: 300px;
+    /* background-color: rebeccapurple; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 100px;
+  /* margin-top: 40px; */
+   position: absolute;
+  left: 380px;
+  top: 20px;
+  text-align: center;
+}
+.diw1 .w{
+    margin-bottom: 60px;
+    font-weight: 300;
+    font-size: 50px;
+}
+.diw1 .w1{
+   margin-top: 60px;
+    /* font-weight: 300;
+    font-size: 50px; */
+}
+
+.w{
+    font-size: 40px;
+    font-weight: 700;
+}
+.divb .w{
+    font-size: 40px;
+    font-weight: 600;
+}
+.w1{
+    margin: 10px 0px 20px;
+    font-size: 20px;
+    font-weight: 100;
+}
+/* /imp/ */
+.container{
+    background-color: #cccccc60;
+    width: 100%;
+    height: 2450px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    /* flex-wrap: wrap; */
+}
+.divg{
+    padding: 81px 0px 0px 0px;
+    height: 470px;
+    width: 90%;
+    margin: 0px auto 20px auto;
+    display: flex;
+    background-color: white;
+    text-align-last: center;
+}
+.divb{
+    width: 90%;
+    height: 560px;
+    margin: 20px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    text-align-last: center;
+    background-image: url("why_apple__ezn1ktvka6oi_large.jpg");
+}
+.divc{
+    width: 90%;
+    height: 540px;
+    margin: 20px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    text-align-last: center;
+    position: relative;
+}
+.divg2{
+    margin-left: 60px;
+    height: 388px;
+    width: 766px;
+    background-image: url("u.jpg");
+}
+.divc2{
+    /* margin-top: 50px;
+    padding-top: 75px;
+    margin-left: 130px; */
+    height: 463px;
+    background-size: cover;
+    width: 663px;
+    background-image: url("magsafe__bfji5hb1mqsy_large.jpg");
+    position: absolute;
+    bottom: 0px;
+    right: 100px;
+
+}
+.aa{
+    width: 900px;
+    padding: 30px;
+    font-size: 12px;
+    color: #6E6E73;
+    margin: 0px auto;
+    position: relative;
+}
+.aa li{
+    list-style: decimal;
+}
+.aa span{
+    color: #6E6E73;
+    font-weight: 100;
+}
+.aa a{
+    color: black;
+    font-weight: 200;
+    font-style: bold;
+}
+.aa hr{
+    width: 90%;
+    position: absolute;
+    left: 35px;
+     bottom: 460px;
+     color: black;
+    
+}
+.foot{
+    height: 2800px;
+    width: 100%;
+    background-color: #F5F5F7;
+
+}
+.airpod{
+    height: 498px;
+    width: 1063px;
+    position: absolute;
+    background-image: url("airpods__eb24cvhoe26a_large.jpg");
+    bottom: 40px;
+    left: 140px;
+}
+.box9{
+    width: 90%;
+    height: 700px;
+    margin: 0px auto 20px auto;
+    position: relative;
+    background: white;
+}
+.wwww{
+    font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;
+    display: flex;
+    flex-wrap: nowrap;
+    padding-top: 20px;
+    list-style:none;
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+    /* padding-top: 20px; */
+    margin-top: 60px;
+}
+.wwww a{
+    color: #535353;
+  
+}
+.wwww span{
+    color: black;
+    font-size: 12px;
+  
+}
+.wwww li a{
+    list-style: none;
+    text-decoration: none;
+    text-transform: none;
+}
+.wwww li{
+    list-style: none;
+    line-height: 2.4;
+}
+.wwww h3{
+    color: black;
+    font-size: 13px;
+    font-weight: 900;
+  
+}
