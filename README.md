@@ -1,3 +1,4 @@
 # webdev_project
 web devolpment project
-<img href="file:///D:/my%20personal%20drive/OneDrive/Desktop/Code/project/webdev_project/Apple%20clone/index.html">
+<img src="project/webdev_project/Apple clone/why_apple__ezn1ktvka6oi_large.jpg" alt="aa" width="200px" height="150px">
+
